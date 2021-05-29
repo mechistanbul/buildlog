@@ -8,7 +8,7 @@ Arranging 6 keys that can be pressed naturally with the thumb inevitably require
 As a result, you can perform frequent key operations such as shift, space, enter, and layer switching with your thumb.
 In addition, it is designed with thumb shift input in mind, solves various problems in current thumb shift input, incorporates the latest keyboard trends, and comfortably thumb shift input just by connecting. It is a keyboard that aims to be able to do it.
 
-! [qol56] (qol56-7.jpg)
+![qol56](qol56-7.jpg)
 
 ## Supports thumb shift input
 
@@ -68,18 +68,18 @@ Other common parts of homebrew keyboards such as Cherry MX compatible switches, 
 In addition, the kicad file is also open to the public, so you can freely modify it to create your own layout.
 The QMK code can be found on [GitHub] (https://github.com/eswai/qmk_firmware/tree/master/keyboards/eswai/qol56) so you can modify the keymap.
 
-! [qol56] (qol56-parts.jpg)
+![qol56](qol56-parts.jpg)
 
-! [qol56] (qol56-pcb1.png)
+![qol56](qol56-pcb1.png)
 
-! [qol56] (qol56-pcb2.png)
+![qol56](qol56-pcb2.png)
 
-! [qol56] (qol56-1.jpg)
+![qol56](qol56-1.jpg)
 
-! [qol56] (qol56-2.jpg)
+![qol56](qol56-2.jpg)
 
-! [qol56] (qol56-3.jpg)
+![qol56](qol56-3.jpg)
 
-! [qol56] (qol56-4.jpg)
+![qol56](qol56-4.jpg)
 
-! [qol56] (qol56-6.jpg)
+![qol56](qol56-6.jpg)
