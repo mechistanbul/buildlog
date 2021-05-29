@@ -33,3 +33,5 @@ Below is a list of projects we forked.
 [dactyl-keyboard](https://github.com/mechistanbul/dactyl-keyboard)
 
 [Lily58](https://github.com/mechistanbul/Lily58)
+
+[QOL56](https://github.com/mechistanbul/QOL56)
