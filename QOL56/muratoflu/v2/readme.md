@@ -1,4 +1,4 @@
-# Creating a ZMK shield for QOL56
+# Wireless QOL56
 ## Background and story
 As I was playing with a shiny new Nice Nano v2 I got my hands on (For a nice nano and its v2 model please check: https://nicekeyboards.com/nice-nano/), it was just a matter of time before I would get one into the QOL56. So this was more of an answer to my curiosity of "can it be done?"
 
